@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="welcome_to">WELCOME TO</string>
+    <string name="furniture">FURNITURE</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_account">Account</string>
+    <string name="name_product_one">Zinus Jocelyn Contemporary 65 Inch Imless Sofa Beige</string>
+    <string name="product_one">Zinus loveseats and sofas are the perfect cozy spot for movie night, or game night or curl-up-with-a-great-book night. With multiple layers of cushioning, you can relax in its soft supportive embrace. You can also relax because the durable fabrics are tough enough for years of serious couching. Every Zinus sofa comes with a one-year worry-free warranty.</string>
+    <string name="name_product_tow">GreenForest L-Shape Corner</string>
+    <string name="product_tow">Industrial Style Large Desktop Computer Gaming Desk for Home Office GreenForest L Shaped Corner Desk Walnut.</string>
+    <string name="name_product_three">Christopher Knight Home</string>
+    <string name="product_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="name_product_four">Sealy</string>
+    <string name="product_four">All the comfort and trusted quality of a Sealy mattress, now conveniently packaged as a ready-to-ship mattress-in-a-box. This mattress is designed to be delivered directly to your door by UPS Ground.</string>
+    <string name="name_product_five">Ameriwood Kendall</string>
+    <string name="product_five">Tons of parts. Took three hours to build. There is a gap between two of the drawers.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
